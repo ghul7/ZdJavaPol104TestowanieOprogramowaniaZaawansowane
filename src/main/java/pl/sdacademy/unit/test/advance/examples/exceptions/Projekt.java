@@ -5,7 +5,6 @@ public class Projekt {
     public static void main(String[] args) {
         System.out.println("ala ma kota");
 
-
-        System.out.println("teraz dodaje zmiany");
+        
     }
 }
